@@ -8,7 +8,7 @@ The goal of this project is to discover natural groupings (clusters) in the data
 
 🧠 Objective
 
-To perform clustering analysis on the Iris dataset using:
+To perform clustering analysis on the Iris dataset using::
 
 K-Means Clustering
 
